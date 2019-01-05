@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff9000;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #ff9000;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="basket_act" transform="translate(-2992 -1191)">
+    <path id="Union_1" data-name="Union 1" class="cls-1" d="M-2928,27a2.989,2.989,0,0,1,.171-1h-8.342a2.989,2.989,0,0,1,.171,1,3,3,0,0,1-3,3,3,3,0,0,1-3-3,2.983,2.983,0,0,1,.352-1.41L-2943.812,5H-2948V3h6v.1l.41,3.9H-2918V18l-3.226.465-18.846,2.985.268,2.55h14.8a3,3,0,0,1,3,3,3,3,0,0,1-3,3A3,3,0,0,1-2928,27Zm2,0a1,1,0,0,0,1,1,1,1,0,0,0,1-1,1,1,0,0,0-1-1A1,1,0,0,0-2926,27Zm-14,0a1,1,0,0,0,1,1,1,1,0,0,0,1-1,1,1,0,0,0-1-1A1,1,0,0,0-2940,27Z" transform="translate(5940 1198)"/>
+    <g id="Эллипс_1" data-name="Эллипс 1" class="cls-2" transform="translate(3001 1191)">
+      <circle class="cls-3" cx="15" cy="15" r="15"/>
+      <circle class="cls-4" cx="15" cy="15" r="14"/>
+    </g>
+  </g>
+</svg>
