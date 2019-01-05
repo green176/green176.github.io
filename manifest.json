@@ -1,9 +1,9 @@
 {
-  "name": "pwa-test",
-  "short_name": "pwa-test",
-  "theme_color": "#1976d2",
+  "name": "bahetle",
+  "short_name": "bahetle",
+  "theme_color": "#005baa",
   "background_color": "#fafafa",
-  "display": "fullscreen",
+  "display": "standalone",
   "scope": "/",
   "start_url": "/",
   "icons": [
